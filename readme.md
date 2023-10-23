@@ -1,2 +1,2 @@
-#### This is to practice Shell scripting
+#### This is to create a Shell script to automate ecomm application deployment.
 
